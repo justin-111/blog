@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag1 on justin&#39;s fist blog</title>
+    <link>https://justin&#39;s-first-blog.netlify.app/tags/tag1/</link>
+    <description>Recent content in tag1 on justin&#39;s fist blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jun 2021 20:55:30 +0800</lastBuildDate><atom:link href="https://justin's-first-blog.netlify.app/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Blog</title>
+      <link>https://justin&#39;s-first-blog.netlify.app/2021/06/third-blog/</link>
+      <pubDate>Mon, 21 Jun 2021 20:55:30 +0800</pubDate>
+      
+      <guid>https://justin&#39;s-first-blog.netlify.app/2021/06/third-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>我的榮譽榜</title>
+      <link>https://justin&#39;s-first-blog.netlify.app/2021/06/%E6%88%91%E7%9A%84%E6%A6%AE%E8%AD%BD%E6%A6%9C/</link>
+      <pubDate>Mon, 21 Jun 2021 20:53:03 +0800</pubDate>
+      
+      <guid>https://justin&#39;s-first-blog.netlify.app/2021/06/%E6%88%91%E7%9A%84%E6%A6%AE%E8%AD%BD%E6%A6%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>我的程式學習之旅</title>
+      <link>https://justin&#39;s-first-blog.netlify.app/2021/06/%E6%88%91%E7%9A%84%E7%A8%8B%E5%BC%8F%E5%AD%B8%E7%BF%92%E4%B9%8B%E6%97%85/</link>
+      <pubDate>Mon, 21 Jun 2021 19:48:32 +0800</pubDate>
+      
+      <guid>https://justin&#39;s-first-blog.netlify.app/2021/06/%E6%88%91%E7%9A%84%E7%A8%8B%E5%BC%8F%E5%AD%B8%E7%BF%92%E4%B9%8B%E6%97%85/</guid>
+      <description>&lt;p&gt;我9歲接觸到第一個程式語言&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
